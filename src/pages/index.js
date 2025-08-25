@@ -21,7 +21,7 @@ export default function Home() {
             title="Docker"
             subtitle="Latest trends in Docker"
             hashtags={['ai', 'deeplearning', 'research']}
-            link="/blog/docker"
+            link="/docs/technologies/docker"
             imageSrc="/img/docker.svg"
             imageAlt="Docker"
             
@@ -33,7 +33,7 @@ export default function Home() {
             title="Docker"
             subtitle="Latest trends in Docker"
             hashtags={['ai', 'deeplearning', 'research']}
-            link="/blog/docker"
+            link="/docs/technologies/docker"
             imageSrc="/img/docker.svg"
             imageAlt="Docker"
             
@@ -45,7 +45,7 @@ export default function Home() {
             title="Docker"
             subtitle="Latest trends in Docker"
             hashtags={['ai', 'deeplearning', 'research']}
-            link="/blog/docker"
+            link="/docs/technologies/docker"
             imageSrc="/img/docker.svg"
             imageAlt="Docker"
             
@@ -57,7 +57,7 @@ export default function Home() {
             title="Docker"
             subtitle="Latest trends in Docker"
             hashtags={['ai', 'deeplearning', 'research']}
-            link="/blog/docker"
+            link="/docs/technologies/ollama"
             imageSrc="/img/docker.svg"
             imageAlt="Docker"
             
