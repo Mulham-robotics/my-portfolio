@@ -4,10 +4,24 @@
         <title>Mulham Fetna Blog</title>
         <link>https://Mulham-robotics.github.io/my-portfolio/blog</link>
         <description>Mulham Fetna Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Aug 2025 11:55:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Champoinships]]></title>
+            <link>https://Mulham-robotics.github.io/my-portfolio/blog/index</link>
+            <guid>https://Mulham-robotics.github.io/my-portfolio/blog/index</guid>
+            <pubDate>Mon, 25 Aug 2025 11:55:31 GMT</pubDate>
+            <description><![CDATA[Placeholder blog entry for championships.]]></description>
+            <content:encoded><![CDATA[<p>This is a fake blog post for the Champoinships route.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Champoinships]]></title>
+            <link>https://Mulham-robotics.github.io/my-portfolio/blog/Champoinships</link>
+            <guid>https://Mulham-robotics.github.io/my-portfolio/blog/Champoinships</guid>
+            <pubDate>Sat, 23 Aug 2025 15:30:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://Mulham-robotics.github.io/my-portfolio/blog/welcome</link>
