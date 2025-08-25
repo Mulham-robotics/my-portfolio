@@ -92,11 +92,7 @@ const config = {
             label: 'Blog',
             position: 'left'
           },
-          {
-            to: '/docs/intro',
-            label: 'Intro',
-            position: 'left'
-          },
+
           {
             to: '/docs',
             label: 'Docs',
