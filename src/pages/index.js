@@ -27,7 +27,29 @@ export default function Home() {
             imageAlt="Docker"
             
           />
+
+          <Card
+            title="Ollama"
+            subtitle="Latest trends in Ollama"
+            hashtags={['ai', 'deeplearning', 'research']}
+            link="/docs/technologies/ollama"
+            imageSrc="/img/ollama.png"
+            imageAlt="Ollama"
+            
+          />
+
+          <Card
+            title="Python"
+            subtitle="Latest trends in Python"
+            hashtags={['ai', 'deeplearning', 'research']}
+            link="/docs/technologies/python"
+            imageSrc="/img/python.svg"
+            imageAlt="Python"
+            
+          />
         </Section>
+
+        
 
         <Section title="Projects" subtitle="Read about Projects i have worked with , guides to install , tricks  and related projects to play with">
           <Card
