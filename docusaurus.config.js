@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Mulham Fetna',
-  tagline: 'Lets deep dive into robotics / ai / ml / devops world',
+  tagline: 'Mechatronics Engineer & STEM Leader: Bridging Robotics Innovation with Hands-On Education',
   favicon: 'img/favicon.ico',
 
 
@@ -123,23 +123,31 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://github.com/Mulham-robotics',
               },
               {
                 label: 'Linkdein',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://linkedin.com/in/molham-fetnah',
               },
               {
                 label: 'Facebook',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://www.facebook.com/mulham.robotics/',
               },
               {
                 label: 'Instagram',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://www.instagram.com/mulham.robotics/',
               },
               {
                 label: 'Youtube',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://www.youtube.com/@mulhamfetna-robotics',
+              },
+              {
+                label: 'Patreon',
+                href: 'https://patreon.com/MulhamFetna'
+              },
+              {
+                label: 'Linktree',
+                href: 'https://linktr.ee/Mulham.Neurobotics',
               },
             ],
           },

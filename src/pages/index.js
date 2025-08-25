@@ -12,7 +12,8 @@ export default function Home() {
         <header class="hero hero--primary heroBanner_qdFl">
           <div class="container">
             <h1 class="hero__title">Mulham Fetna</h1>
-            <p class="hero__subtitle">Lets deep dive into robotics / ai / ml / devops world</p>
+            <p class="hero__subtitle">Mechatronics Engineer & STEM Leader: Bridging Robotics Innovation with Hands-On Education</p>
+            <h3>Mechatronics - Robotics - AI - ML</h3>
           </div>
         </header>
         

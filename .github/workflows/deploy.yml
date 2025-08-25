@@ -18,6 +18,6 @@ jobs:
       - run: npm run build
       - run: npm run deploy
         env:
-          GIT_USER: yourusername
+          GIT_USER: Mulham-robotics
           USE_SSH: true
           DEPLOYMENT_KEY: ${{ secrets.DEPLOYMENT_KEY }}
